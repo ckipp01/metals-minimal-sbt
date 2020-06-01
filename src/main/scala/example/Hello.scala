@@ -17,4 +17,7 @@ trait Greeting {
       f: String,
       g: String
   ) = ()
+
+  val enterNewlineAfterPipe = """|"""
+
 }
