@@ -18,6 +18,6 @@ trait Greeting {
       g: String
   ) = ()
 
-  val enterNewlineAfterPipe = """|"""
+  val enterNewlineAfterPipe = """|""".stripMargin
 
 }
