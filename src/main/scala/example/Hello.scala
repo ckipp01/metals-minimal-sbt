@@ -8,18 +8,17 @@ object Hello extends Greeting with App {
 trait Greeting {
   lazy val greeting: String = "hello"
 
-  /**
-      * There is also a lot stuff written here to make the float bigger.
-      * Blah blah blah blah blah blah
-      *
-      * @param a
-      * @param b
-      * @param c
-      * @param d
-      * @param e
-      * @param f
-      * @param g
-      */
+  /** There is also a lot stuff written here to make the float bigger. Blah blah
+    * blah blah blah blah
+    *
+    * @param a
+    * @param b
+    * @param c
+    * @param d
+    * @param e
+    * @param f
+    * @param g
+    */
   def superLongMethodToTestForHover(
       a: String,
       b: String,

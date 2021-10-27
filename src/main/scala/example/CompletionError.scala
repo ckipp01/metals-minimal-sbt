@@ -5,5 +5,4 @@ object CompletionError {
 
   // Trigger completion here at option ma<cursor> <---
 
-
 }
